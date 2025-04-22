@@ -57,7 +57,7 @@ All project data is fetched dynamically from Supabase, allowing seamless future 
 
 ### 🚪 Admin Panel (Password-Protected)
 - Accessible from navbar/footer
-- Password: `Dammy@$$2002$$`
+- Password: `*****`
 - Add/Edit/Delete projects:
   - Name
   - Description
