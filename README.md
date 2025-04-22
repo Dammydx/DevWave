@@ -5,7 +5,8 @@ A modern, animated personal portfolio to showcase real projects, skills, and lin
 ---
 
 ## 🌎 Live Site
-[View the portfolio](#) *(https://dammydx.github.io/DevWave/)*
+View the portfolio:    
+https://dammydx.github.io/DevWave/
 
 ---
 
